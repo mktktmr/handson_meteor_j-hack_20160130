@@ -62,6 +62,7 @@ Due to not match bundle identifier and provisioning profile info.
 match bundle identifier and provisioning profile.
 
 for example…
+
 ![hoge](https://github.com/mktktmr/handson_meteor_j-hack_20160130/wiki/images/matching_identifier.jpg)
 
 
