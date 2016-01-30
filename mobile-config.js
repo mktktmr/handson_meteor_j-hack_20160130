@@ -9,3 +9,12 @@ App.info({
   version: '0.1.0',                  // バージョン番号
   buildNumber: '1'                   // ビルド番号
 });
+
+App.icons({
+  // iOS
+  'iphone'   : 'resources/icons/app_icon-60x60.png',
+  'iphone_2x': 'resources/icons/app_icon-60x60@2x.png', // 120x120
+  'iphone_3x': 'resources/icons/app_icon-60x60@3x.png', // 180x180
+  'ipad'     : 'resources/icons/app_icon-76x76.png',
+  'ipad_2x'  : 'resources/icons/app_icon-76x76@2x.png', // 144x144
+});
