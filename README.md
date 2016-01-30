@@ -8,6 +8,16 @@ It's mean that can be ready to release for App store.
 ## Resource
 [Meteor iOSアプリ開発入門](https://www.gitbook.com/book/j-hack/meteor-ios-app-getting-started/details)
 
+## Environment
+* Meteor: 1.2.1
+* Develop Machine
+  * MacBook Air
+  * OS X 10.10.5
+* Xcode: 7.2
+* Debug Device
+  * iPad mini (MD531J/A)
+  * iOS: 9.2.1
+
 ## That failed
 ### 1.Occur a error when build on real device
 
