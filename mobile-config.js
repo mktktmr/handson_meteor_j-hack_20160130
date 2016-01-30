@@ -1,6 +1,6 @@
 // mobile-config.js
 App.info({
-  id: 'com.example.meteor-todo-app', // アプリID
+  id: 'jp.mydns.mktktmr.app', // アプリID
   name: 'Todo',                      // アプリ名
   description: 'Todo App',           // アプリ説明
   author: 'Example Inc.',            // 作者
